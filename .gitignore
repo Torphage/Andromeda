@@ -9,4 +9,6 @@ Dist/Include/nlohmann
 Dist/Include/fbxsdk
 Dist/Include/fbxsdk.h
 
+Dist/Libs/x64/libfbxsdk.lib
+
 assimp_log.txt
