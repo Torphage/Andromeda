@@ -1,7 +1,10 @@
 .vscode
-Bin
 Build
 Resources
+
+# Include the DLL files for third party libraries
+Bin/Release/x64/*
+!Bin/Release/x64/*.dll
 
 # Exclude potential future libraries for now
 Dist/Include/glm
