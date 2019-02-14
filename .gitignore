@@ -1,9 +1,12 @@
 .vscode
 Bin
 Build
+Resources
 
 # Exclude potential future libraries for now
 Dist/Include/glm
 Dist/Include/nlohmann
+Dist/Include/fbxsdk
+Dist/Include/fbxsdk.h
 
 assimp_log.txt
