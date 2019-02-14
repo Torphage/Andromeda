@@ -1,0 +1,9 @@
+.vscode
+Bin
+Build
+
+# Exclude potential future libraries for now
+Dist/Include/glm
+Dist/Include/nlohmann
+
+assimp_log.txt
