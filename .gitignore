@@ -1,6 +1,7 @@
 .vscode
 Build
 Resources
+Test
 
 # Include the DLL files for third party libraries
 Bin/Release/x64/*
